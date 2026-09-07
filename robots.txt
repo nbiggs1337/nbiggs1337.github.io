@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://nbiggs1337.github.io/sitemap.xml
+Disallow: /

@@ -1,5 +1,1 @@
-# Region N3
-
-Durable public snapshot of Package A (Northwest Indiana desk of National News Network).
-
-Source of truth: Origin `bigv-1/n3-news`.
+This host is not the public Region N3 paper.
