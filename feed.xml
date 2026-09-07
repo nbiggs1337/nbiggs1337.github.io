@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Region N3 · National News Network</title>
+    <link>https://nbiggs1337.github.io/</link>
+    <description>Region N3 is the Northwest Indiana desk of National News Network.</description>
+    <language>en-us</language>
+    <ttl>30</ttl>
+    <item>
+      <title>1st Source puts $100K into LaPorte–Porter storm recovery as Valpo cleanup and state aid continue</title>
+      <link>https://nbiggs1337.github.io/article/1st-source-storm-recovery-aid/</link>
+      <guid isPermaLink="true">https://nbiggs1337.github.io/article/1st-source-storm-recovery-aid/</guid>
+      <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Community</category>
+      <description>1st Source Bank Foundation pledged $100,000 to seven nonprofits aiding LaPorte and Porter storm recovery as Valparaiso debris cleanup and state/federal aid windows continue.</description>
+    </item>
+    <item>
+      <title>AWS jobs pipeline: New Carlisle training to Jasper County’s Project Rise</title>
+      <link>https://nbiggs1337.github.io/article/aws-jobs-pipeline-new-carlisle-project-rise/</link>
+      <guid isPermaLink="true">https://nbiggs1337.github.io/article/aws-jobs-pipeline-new-carlisle-project-rise/</guid>
+      <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Business &amp; Tech</category>
+      <description>AWS’s northern Indiana data-center buildout is producing local jobs and Ivy Tech training pathways from New Carlisle toward Jasper County’s Project Rise, with attributed pushback on water and wetlands.</description>
+    </item>
+    <item>
+      <title>Porter County brings in special prosecutors for two Flock LPR cases</title>
+      <link>https://nbiggs1337.github.io/article/porter-county-flock-special-prosecutors/</link>
+      <guid isPermaLink="true">https://nbiggs1337.github.io/article/porter-county-flock-special-prosecutors/</guid>
+      <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Crime</category>
+      <description>Porter Superior Court appointed outside prosecutors Fagan and Taulman to review alleged Flock LPR misuse by a former Chesterton detective and a sheriff’s deputy after Prosecutor Germann sought to avoid appearance of impropriety.</description>
+    </item>
+  </channel>
+</rss>
